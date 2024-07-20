@@ -17,7 +17,7 @@ amaç çoklu dillerde gerek chatgpt ile hem unuttuğum dilleri hatırlamak hemde
 
 <details>
     <summary>Gün 1 - Soru 2033</summary>
-    <pre>Leetcode çözümlerine gerekli ama çok temel olmamalı gözü ile bakıyordum. Fakat bugün fikrim kökten değişti. 2 Dilde bile çözüm üretirken başım ağrıdı vakit geçti. Baya sağlam katkı sağlayan iş bu. Hedefim python-c#-c++-c-dart-js-ts temelinde yapmaktı ilk ikisi sonrası tamam dedim. İlerde illa pratik ile hallederim ama dillerde ufak şeyleri hatırlamayınca sıkıntı olmakta bir kaç aya pekişir bunlar 100. denemede bunları hızlı ve tüm hedef dillerde çözerim umarım.</pre>
+    <p>Leetcode çözümlerine gerekli ama çok temel olmamalı gözü ile bakıyordum. Fakat bugün fikrim kökten değişti. 2 Dilde bile çözüm üretirken başım ağrıdı vakit geçti. Baya sağlam katkı sağlayan iş bu. Hedefim python-c#-c++-c-dart-js-ts temelinde yapmaktı ilk ikisi sonrası tamam dedim. İlerde illa pratik ile hallederim ama dillerde ufak şeyleri hatırlamayınca sıkıntı olmakta bir kaç aya pekişir bunlar 100. denemede bunları hızlı ve tüm hedef dillerde çözerim umarım.</p>
 </details>
 
 <br>
