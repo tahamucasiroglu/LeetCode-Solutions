@@ -24,6 +24,11 @@ amaç çoklu dillerde gerek chatgpt ile hem unuttuğum dilleri hatırlamak hemde
 <br>
 
 
+<details>
+    <summary>Gün 2 - Soru 213</summary>
+    <p>Başta kolay geldi fakat ilerledikçe bakış açım bayağı değişti. kısa test olan run kısmında c# 78 ms verirken submit ile gönderdiğimde 40 ms sonucu verdi 2 kat fark var fakat kod aynı o yüzden ms testlerinden ziyade o(n) kısmına daha çok bakmayı düşünüyorum.</p>
+</details>
+
 
 
 
