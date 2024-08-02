@@ -30,6 +30,12 @@ amaç çoklu dillerde gerek chatgpt ile hem unuttuğum dilleri hatırlamak hemde
 </details>
 
 
+<details>
+    <summary>Gün 3 - Soru 849</summary>
+    <p>c++ çok yordu çalıştırmayı bile unutmuşum. </p>
+</details>
+
+
 
 
 
