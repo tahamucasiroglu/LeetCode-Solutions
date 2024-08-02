@@ -2,7 +2,7 @@ import os
 
 
 
-projectName = "213. House Robber II && Difficult Medium"
+projectName = "849. Maximize Distance to Closest Person && Difficult Medium"
 
 solitions = "Solitions"
 csharp = "CSharp"
