@@ -2,7 +2,7 @@ import os
 
 
 
-projectName = "849. Maximize Distance to Closest Person && Difficult Medium"
+projectName = "3201. Find the Maximum Length of Valid Subsequence"
 
 solitions = "Solitions"
 csharp = "CSharp"
