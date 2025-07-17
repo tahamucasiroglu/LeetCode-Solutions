@@ -2,7 +2,7 @@ import os
 
 
 
-projectName = "3201. Find the Maximum Length of Valid Subsequence"
+projectName = "3202. Find the Maximum Length of Valid Subsequence II"
 
 solitions = "Solitions"
 csharp = "CSharp"
